@@ -3,13 +3,13 @@
 title: DALI 2021
 subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
-baseurl: ""
+baseurl: dali2021
 url: ""
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: dalimeeting/jekyll-theme
 style: dali
 
 ghub:
