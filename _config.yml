@@ -14,7 +14,7 @@ style: dali
 
 ghub:
   edit: true
-  repository: dalimeeting.github.io
+  repository: dali2021
 # Also generate pages with dates in the future
 future: true
 
