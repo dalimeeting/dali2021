@@ -2,14 +2,14 @@
 # Global site settings
 title: DALI 2021
 subtitle: Data, Learning and Inference
-permalink: "/:categories/:title.html"
-baseurl: dali2021
-url: ""
+permalink: "/:title.html"
+baseurl: "/dali2021"
+url: "http://dalimeeting.org"
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: dalimeeting/jekyll-theme
+remote_theme: lawrennd/proceedings
 style: dali
 
 ghub:
